@@ -1,0 +1,5 @@
+# accounts.txt
+# Format: edel_session=<token>
+# Satu akun per baris
+# Contoh: edel_session=eyJ2Ij...ASO8
+
